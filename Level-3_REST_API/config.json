@@ -1,0 +1,7 @@
+{
+  "connectionProfile": "./connection-org1.json",
+  "channelName": "mychannel",
+  "chaincodeName": "accounts",
+  "walletPath": "./wallet",
+  "userId": "appUser"
+}
